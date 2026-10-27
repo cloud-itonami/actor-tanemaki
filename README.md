@@ -1,6 +1,6 @@
 # tanemaki 種蒔き
 
-Canonical repository: `etzhayyim/actor-tanemaki`.
+Canonical repository: `cloud-itonami/actor-tanemaki`.
 
 **Public Fund grant-steward (fund-manager inversion).** Fuses disclosed public evidence from
 the observatory lineage into a **public due-diligence scorecard** over candidate grantee
